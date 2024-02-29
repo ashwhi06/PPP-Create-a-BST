@@ -1,4 +1,4 @@
-#Part 1: Create a BSTNode class - Day7 Activity2
+#Part 1: Create a BSTNode class - Day7 Activity2- completed on Day8
 class BSTNode:
   def __init__(self, data = None, left = None, right = None):
     self.data = data
